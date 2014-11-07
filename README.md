@@ -12,6 +12,10 @@ javascript:!function(){function t(){!function(t){var o=function(){function o(){i
 
 ```
 
+Screenshot
+----------
+![screenshot](https://github.com/macedo/rdio-lyrics/raw/assets/screenshot.png)
+
 License
 -------
 
