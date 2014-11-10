@@ -1,5 +1,5 @@
-rdio-lyrics
-===========
+rdio-lyrics [![Code Climate](https://codeclimate.com/github/macedo/rdio-lyrics/badges/gpa.svg)](https://codeclimate.com/github/macedo/rdio-lyrics)
+=========== 
 
 Bookmarklet that searchs song lyrics at http://api.vagalume.com.br
 
